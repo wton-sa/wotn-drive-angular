@@ -1,0 +1,110 @@
+
+{
+    "dir": "ltr",
+
+    "LoginPage" : "Anmeldung",
+    "LogIn":{
+        "patientLogin":"Patienten Login",
+        "adminLogin":"Admin Login",
+        "doctorLogin": "Arzt-Login",
+        "areYouDoctor":"Sind Sie ein Arzt?",
+        "notDoctor": "Kein Arzt?",
+        "email":"Email",
+        "emailRequired": "E-Mail oder Telefon erforderlich",
+        "Password": "Passwort",
+        "PasswordRequired": "Passwort erforderlich",
+        "ForgotPassword": "Passwort vergessen ?",
+        "Or": "Oder",
+        "DontAccount":"Sie haben kein Konto?",
+        "Register": "Registrieren",
+        "loginSuccess":"Erfolgreich eingeloggt!",
+        "loginFailure":"Anmeldung fehlgeschlagen!",
+        "VerifyYourAccount" : "Verify Your Account"
+    },
+
+    "RegisterPage" : "Register",
+    "Register" : {
+        "Name" : "Name",
+        "NameRequired":"Name ist erforderlich",
+        "MobileNumber":"Handy Nummer",
+        "MobileRequired":"Handy ist erforderlich",
+        "EmailAdress" : "E-Mail-Addresse",
+        "EmailRequired" : "E-Mail ist erforderlich",
+        "EmailVaild":"Geben sie eine gültige E-Mail-Adresse an",
+        "CreatePassword" : "Passwort erstellen",
+        "PasswordRequired" : "Passwort wird benötigt",
+        "PasswordError" : "Das Passwort sollte mindestens 8 Zeichen lang sein, mindestens 1 Großbuchstaben, 1 Kleinbuchstaben und 1 Zahl",
+        "AlreadyHaveAccount": "Sie haben bereits ein Konto?",
+        "Signup":"Anmelden",
+        "verificationCode":"Verifizierungs-Schlüssel",
+        "VerificationCodeRequired" : "Bestätigungscode wird benötigt",
+        "PatientRegister" : "Patientenregister",
+        "DoctorRegister" : "Arztregister",
+        "Registersuccessfully" : "Erfolgreich registriert",
+        "VerificationNotCorrect!" : "Bestätigungscode ist nicht korrekt!",
+        "userExists" : "user Email or Mobile Number already Exists!",
+        "VerifyYourCode" : "Überprüfen Sie Ihren Code"
+    },
+
+    "ForgotpasswordPage":"Forgot Password",
+    "ForgotPassword" : {
+        "Forgotpasswordtxt": "Passwort vergessen?",
+        "EnterEmail" : "Geben Sie Ihre E-Mail-Adresse ein, um einen Link zum Zurücksetzen des Passworts zu erhalten",
+        "Email": "Email",
+        "RememberPassword":"Erinnern Sie sich an Ihr Passwort?",
+        "ResetPassword" : "Passwort zurücksetzen"
+    },
+    "Menu" : {
+        "Home" : "Zuhause",
+        "Doctors" : "Ärzte",
+        "Patients" : "Patienten",
+        "Pharmacy" : "Apotheke",
+        "Pages" : "Seiten",
+        "Blog" : "Bloggen",
+        "Admin" : "Administrator",
+        "LoginSignup" :"Einloggen Anmelden",
+        "Dashboard" : "Armaturenbrett",
+        "Appointments" : "Termine",
+        "Clinics":"Kliniken",
+        "BookAppointment" : "Einen Termin verabreden",
+        "MyDashboard" : "Mein Armaturenbrett",
+        "ScheduleTiming" : "Zeitplan einplanen",
+        "PatientsList" : "Patientenliste",
+        "Chat" : "Plaudern",
+        "Invoices" : "Rechnungen",
+        "ProfileSettings" : "Profileinstellungen",
+        "Reviews" : "Bewertungen",
+        "ChangePassword" : "Passwort ändern",
+        "Logout" : "Ausloggen",
+        "aboutUs" : "Über uns",
+        "specialities" :"Specialities",
+        "ChooseLanguage" : "Choose Language"
+    },
+
+    "Footer" : {
+        "PatientsTitle" : "Für Patienten",
+        "SearchforDoctors" : "Suchen Sie nach Ärzten",
+        "Login" : "Anmeldung",
+        "Register" : "Registrieren",
+        "Booking" : "Buchung",
+        "PatientDashboard" : "Patienten Dashboard",
+        "ForDoctors" : "Für Ärzte",
+        "Appointments" : "Termine",
+        "Chat" : "Plaudern",
+        "DoctorDashboard" : "Arzt Dashboard",
+        "About" : "Es ist wichtig, sich um den Patienten zu kümmern und vom Arzt begleitet zu werden, aber es ist eine Zeit großer Schmerzen und Leiden.",
+        "ContactUs" : "Kontaktiere uns",
+        "Address" : "3556 Beech Street, KAIRO, KAIRO, EG 94108",
+        "Copyright" : "© 2020 wikipediaMedicine. Alle Rechte vorbehalten.",
+        "TermsandConditions" : "Geschäftsbedingungen",
+        "Policy" : "Politik"
+    },
+    "Message" : {
+        "Success" : "Erfolg einfügen",
+        "Deleted" :"Erfolgreich gelöscht!",
+        "Updated" : "Dienst erfolgreich aktualisiert!",
+        "FillService" : "Bitte Servicedaten ausfüllen!"
+
+    }
+
+}

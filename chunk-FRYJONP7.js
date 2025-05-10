@@ -1,1 +1,0 @@
-import{E as o}from"./chunk-RWSLZPAC.js";var r=class t{loginEmail;loginPassword;static \u0275fac=function(i){return new(i||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{r as a};

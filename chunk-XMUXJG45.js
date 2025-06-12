@@ -1,1 +1,0 @@
-import{K as t}from"./chunk-GCDLNEK5.js";var o=class r{loginEmail;loginPassword;static \u0275fac=function(s){return new(s||r)};static \u0275prov=t({token:r,factory:r.\u0275fac,providedIn:"root"})},i=class{OldPassword;Password;ConfirmPassword};export{o as a,i as b};

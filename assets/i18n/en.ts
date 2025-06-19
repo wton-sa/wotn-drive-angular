@@ -1,0 +1,58 @@
+export const locale: any = {
+  lang: 'en',
+  data: {
+    dir: "ltr",
+    RequieredField: "Requiered Field",
+    Save: "Save",
+    Upload: "Upload",
+    Projects: {
+      Admin: "Admin",
+      Editor: "Editor",
+      Viewer: "Viewer",
+      ProjectsPage: "Projects",
+      CreateProject: "Create Project",
+      ProjectName: "Project Name",
+      WriteProjectNameHere: "Write Project Name Here",
+      ProjectType: "Project Type",
+      SelectProjectType: "Select Project Type",
+      Event: "Event",
+      Conference: "Conference",
+      Description: "Description",
+      WriteDescriptionHere: "Write Description Here",
+      StartDate: "Start Date",
+      EndDate: "End Date",
+      Location: "Location",
+      WriteLocationHere: "Write location Here",
+      PeopleWithAccess: "People with access",
+      EnterNameOrEmail: "Enter Name or Email address",
+      AddPropjectPhoto: "Add Project Photo",
+      DropImageHereOrBrowse: "Drop your image here, or click to browse",
+      PhotoInfo: "1600 x 1200 (4:3) recommended. PNG, JPG and GIF files are allowed",
+      ImagePreview: "Image Preview",
+      EnterValidData: "Enter valid data",
+      ProjectAddedSuccessfully: "Project had been added successfully",
+      ProjectCreationFaild: "Error happened while project adding",
+      UploadedImage: "Uploaded Image",
+      EndDateMustBeGreater: "End date must be greater than start date"
+    },
+    Folders: {
+      CreateFolder: "Create Folder",
+      FolderName: "Folder Name",
+      WriteFolderNameHere: "Write Folder Name Here",
+      Description: "Description",
+      WriteDescriptionHere: "Write Description Here",
+      AddPropjectPhoto: "Add Folder Photo",
+      DropImageHereOrBrowse: "Drop your image here, or click to browse",
+      PhotoInfo: "1600 x 1200 (4:3) recommended. PNG, JPG and GIF files are allowed",
+      ImagePreview: "Image Preview",
+      EnterValidData: "Enter valid data",
+      FolderAddedSuccessfully: "Folder had been added successfully",
+      FolderCreationFaild: "Error happened while Folder adding",
+      UploadedImage: "Uploaded Image"
+    },
+    Maps:{
+      MapSavedSuccessfully: "Map had been saved successfully",
+      MapSaveFaild: "Error happened while map saving",
+    }
+  }
+};

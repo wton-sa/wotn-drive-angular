@@ -1,0 +1,75 @@
+
+{
+    "dir": "ltr",
+    "LoginPage" : "Login",
+    "LogIn":{
+        "email":"Email",
+        "emailRequired": "Email is required",
+        "Password": "Password",
+        "PasswordRequired": "Password Required",
+        "ForgotPassword": "Forgot Password ?",
+        "Or": "Or",
+        "DontAccount":"Don’t have an account?",
+        "Register": "Register",
+        "loginSuccess":"Login success!",
+        "loginFailure":"Email Or password not correct!",
+        "VerifyYourAccount" : "Verify Your Account",
+        "emailisinvalid":"Enter a valid email address",
+        "LogoutSuccess" : "Logout success!",
+        "LogInUsingAccount": "Log in using the account",
+        "PasswordMinLength": "Password must be at least 4 characters long."
+    },
+
+    "RegisterPage" : "Register",
+    "Register" : {
+        "Name" : "Name",
+        "NameRequired":"Name is required",
+        "MobileNumber":"Mobile Number",
+        "MobileRequired":"Mobile is Required",
+        "EmailAdress" : "Email Address",
+        "EmailRequired" : "Email is required",
+        "EmailVaild":"Enter a valid email address",
+        "CreatePassword" : "Create Password",
+        "PasswordRequired" : "Password is required",
+        "PasswordError" : "Password should have minimum 8 characters, at least 1 uppercase letter, 1 lowercase letter and 1 number",
+        "AlreadyHaveAccount": "Already have an account?",
+        "Signup":"Signup",
+        "verificationCode":"verification code",
+        "VerificationCodeRequired" : "verification code is required",
+        "PatientRegister" : "Patient Register",
+        "DoctorRegister" : "Doctor Register",
+        "Registersuccessfully" : "Register successfully",
+        "VerificationNotCorrect!" : "Verification code is not correct!",
+        "userExists" : "user Email or Mobile Number already Exists!",
+        "VerifyYourCode" : "Verify your code"
+
+    },
+
+    "ForgotpasswordPage":"Forgot Password",
+    "ForgotPassword" : {
+        "Forgotpasswordtxt": "Forgot Password?",
+        "EnterEmail" : "Enter your Mobile Number or email to get your Cridentials",
+        "Email": "Email / Mobile",
+        "RememberPassword":"Remember your password?",
+        "ResetPassword" : "Send Cridentials",
+        "resetSuccess":"Reset Password success!",
+        "resetFailure":"Email not correct!",
+        "FillMailToReset": "Fill your mail to Reset your password",
+        "ReturnToLogin": "Return to login"
+    },
+    "Auth": {
+        "WOTNDriveTitle": "WOTN Drive is Online Cloud Storage",
+        "WOTNDriveSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun."
+    },
+    "ChangePassword": {
+      "Title": "Change password",
+      "OldPassword": "Old Password",
+      "OldPasswordRequired": "Old Password is required",
+      "NewPassword": "New Password",
+      "NewPasswordRequired": "New Password is required",
+      "ConfirmPassword": "Confirm Password",
+      "ConfirmPasswordRequired": "Confirmed Password is required",
+      "PasswordsDoNotMatch": "Passwords do not match"
+    }
+
+  }

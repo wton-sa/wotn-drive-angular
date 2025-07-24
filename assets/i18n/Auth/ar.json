@@ -1,0 +1,128 @@
+{
+  "dir": "rtl",
+  "LoginPage": "تسجيل الدخول",
+  "LogIn": {
+    "patientLogin": "تسجيل دخول المريض",
+    "adminLogin": "تسجيل دخول الأدمن",
+    "doctorLogin": "دخول الطبيب",
+    "areYouDoctor": "هل انت دكتور؟",
+    "notDoctor": "لست طبيبا؟",
+    "email": "بريد إلكتروني",
+    "emailRequired": "البريد الإلكتروني أو الهاتف مطلوب",
+    "Password": "كلمة المرور",
+    "PasswordRequired": "كلمة المرور مطلوبة",
+    "ForgotPassword": "هل نسيت كلمة السر ؟",
+    "Or": "أو",
+    "DontAccount": "ليس لديك حساب؟",
+    "Register": "سجل",
+    "loginSuccess": "النجاح في تسجيل الدخول!",
+    "loginFailure": "فشل عملية الدخول!",
+    "VerifyYourAccount": "برجاء تأكيد الحساب",
+    "LogInUsingAccount": "سجل الدخول باستخدام الحساب",
+    "PasswordMinLength": "يجب أن تكون كلمة المرور 4 أحرف على الأقل."
+  },
+  "LogOut": {
+    "logoutFailure": "فشل عملية الخروج!"
+  },
+  "RegisterPage": "سجل",
+  "Register": {
+    "Name": "الاسم",
+    "NameRequired": "مطلوب اسم",
+    "MobileNumber": "رقم الهاتف المحمول",
+    "MobileRequired": "الجوال مطلوب",
+    "EmailAdress": "عنوان البريد الالكترونى",
+    "EmailRequired": "البريد الالكتروني مطلوب",
+    "EmailVaild": "أدخل عنوان بريد إلكتروني صالح",
+    "CreatePassword": "أنشئ كلمة مرور",
+    "PasswordRequired": "كلمة المرور مطلوبة",
+    "PasswordError": "يجب أن تحتوي كلمة المرور على 8 أحرف كحد أدنى ، وحرف واحد كبير على الأقل ، وحرف صغير واحد ، ورقم واحد",
+    "AlreadyHaveAccount": "هل لديك حساب؟",
+    "Signup": "اشتراك",
+    "verificationCode": "رمز التحقق",
+    "VerificationCodeRequired": "رمز التحقق مطلوب",
+    "PatientRegister": "سجل المريض",
+    "DoctorRegister": "سجل الطبيب",
+    "Registersuccessfully": "تسجيل بنجاح",
+    "VerificationNotCorrect!": "رمز التحقق غير صحيح!",
+    "userExists": "البريد الالكتروني أو رقم الهاتف تم ادخاله سابقا",
+    "VerifyYourCode": "تحقق من الرمز الخاص بك"
+  },
+
+  "ForgotpasswordPage": "هل نسيت كلمة السر",
+  "ForgotPassword": {
+    "Forgotpasswordtxt": "هل نسيت كلمة السر؟",
+    "EnterEmail": "أدخل رقم الموبايل أو بريدك الإلكتروني للحصول على بيانات الدخول",
+    "Email": "بريد إلكتروني / رقم الموبايل",
+    "RememberPassword": "تذكر كلمة المرور الخاصة بك؟",
+    "ResetPassword": "إرسال بيانات الدخول",
+    "FillMailToReset": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور",
+    "ReturnToLogin": "العودة لتسجيل الدخول"
+  },
+  "Menu": {
+    "Home": "الرئسيه",
+    "Doctors": "الأطباء",
+    "Patients": "مرضى",
+    "Pharmacy": "صيدلية",
+    "Pages": "الصفحات",
+    "Blog": "مدونة ",
+    "Admin": "مسؤل",
+    "LoginSignup": "الدخول  / التسجيل",
+    "Dashboard": "حسابي ",
+    "Appointments": "تعيينات",
+    "Clinics": "عيادات",
+    "BookAppointment": "حجز الموعد",
+    "MyDashboard": "حسابي",
+    "ScheduleTiming": "جدولة التوقيت",
+    "PatientsList": "قائمة المرضى",
+    "Chat": "دردشة",
+    "Invoices": "الفواتير",
+    "ProfileSettings": "إعدادات الملف الشخصي",
+    "Reviews": "المراجعات",
+    "ChangePassword": "تغيير كلمة المرور",
+    "Logout": "تسجيل خروج",
+    "aboutUs": "من نحن",
+    "specialities": "التخصصات",
+    "ChooseLanguage": "اختر اللغه"
+
+  },
+
+  "Footer": {
+    "PatientsTitle": "للمرضى",
+    "SearchforDoctors": "ابحث عن الأطباء",
+    "Login": "تسجيل دخول",
+    "Register": "انشاء حساب",
+    "Booking": "التذاكر",
+    "PatientDashboard": "حساب المرضى",
+    "ForDoctors": "للأطباء",
+    "Appointments": "حجز",
+    "Chat": "دردشة",
+    "DoctorDashboard": "حساب الطبيب",
+    "About": "من المهم أن تعتني بالمريض وأن يرافقه الطبيب ، لكنها فترة ألم ومعاناة شديدين.",
+    "ContactUs": "اتصل بنا",
+    "Address": "3556 Beech Street, KAIRO, KAIRO, EG 94108",
+    "Copyright": "© 2020 wikipediaMedicine. كل الحقوق محفوظة.",
+    "TermsandConditions": "الأحكام والشروط",
+    "Policy": "سياسة"
+  },
+  "Message": {
+    "Success": "ادخلت بنجاح",
+    "Deleted": "حذف بنجاح!",
+    "Updated": "تم تحديث الخدمة بنجاح!",
+    "FillService": "الرجاء تعبئة بيانات الخدمة!"
+
+  },
+  "Auth": {
+    "WOTNDriveTitle": "درايف WOTN هو تخزين سحابي عبر الإنترنت",
+    "WOTNDriveSubtitle": "هذا نص تجريبي لوصف الخدمة أو المنتج بشكل مختصر."
+  },
+  "ChangePassword": {
+    "Title": "تغيير كلمة المرور",
+    "OldPassword": "كلمة المرور القديمة",
+    "OldPasswordRequired": "كلمة المرور القديمة مطلوبة",
+    "NewPassword": "كلمة المرور الجديدة",
+    "NewPasswordRequired": "كلمة المرور الجديدة مطلوبة",
+    "ConfirmPassword": "تأكيد كلمة المرور",
+    "ConfirmPasswordRequired": "تأكيد كلمة المرور مطلوب",
+    "PasswordsDoNotMatch": "كلمتا المرور غير متطابقتين"
+  }
+}
